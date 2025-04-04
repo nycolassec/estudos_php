@@ -68,7 +68,6 @@ $projetos = [
     ["nome" => "Aluguel de carros", "finalizado" => 0, "Eryck"],
     ["nome" => "Sistema Fibra", "finalizado" => 1, "Wellington"]
 ];
-
 foreach ($projetos as $projeto){
 ?>
     <ul>
